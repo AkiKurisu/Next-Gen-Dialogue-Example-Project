@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: a74974dd56efd23468a3b4fcd9b87637
   m_SerializeEntries:
   - m_GUID: 8bfaf59643c0fdf498c616e29e20bb74
-    m_Address: Packages/com.kurisu.next-gen-dialogue/Modules/Localization/Data/Dialogue
+    m_Address: Assets/Samples/Next Gen Dialogue/1.0.0/Localization Example/Data/Dialogue
       Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []

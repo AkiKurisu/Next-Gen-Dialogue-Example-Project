@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.kurisu.next-gen-dialogue": "file:E:/Unity/KurisuWork/Assets/Next Gen Dialogue",
     "com.unity.burst": "1.8.8",
     "com.unity.collab-proxy": "2.0.0",
     "com.unity.collections": "1.5.1",
