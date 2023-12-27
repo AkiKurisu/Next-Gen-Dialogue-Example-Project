@@ -9,12 +9,13 @@
       }
     },
     "com.kurisu.next-gen-dialogue": {
-      "version": "file:E:/Unity/KurisuWork/Assets/Next Gen Dialogue",
+      "version": "https://github.com/AkiKurisu/Next-Gen-Dialogue.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
-      }
+      },
+      "hash": "f5c40844aaef98fe626423879e86d2c226b6b54d"
     },
     "com.unity.addressables": {
       "version": "1.19.19",

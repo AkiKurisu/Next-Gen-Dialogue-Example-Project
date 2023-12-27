@@ -18,6 +18,6 @@ MonoBehaviour:
     graphStyleSheet: {fileID: 0}
     inspectorStyleSheet: {fileID: 0}
     nodeStyleSheet: {fileID: 0}
-  aiTurboSetting: {fileID: 0}
+  aiTurboSetting: {fileID: 11400000, guid: 6fdfc4af0822fd34da0789043cf46653, type: 2}
   autoSave: 0
   lastPath: 
