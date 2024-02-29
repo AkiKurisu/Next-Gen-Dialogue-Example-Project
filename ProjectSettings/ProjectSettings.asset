@@ -721,7 +721,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: UNITY_PIPELINE_URP;NGD_USE_LOCALIZATION;NGD_USE_VITS;NGDT_REFLECTION;NGD_USE_TRANSFORMER
+    Standalone: UNITY_PIPELINE_URP;NGD_USE_LOCALIZATION;NGD_USE_VITS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

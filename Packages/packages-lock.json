@@ -1,13 +1,5 @@
 {
   "dependencies": {
-    "com.huggingface.sharp-transformers": {
-      "version": "file:com.huggingface.sharp-transformers@577bfe23c2",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "3.2.1"
-      }
-    },
     "com.kurisu.next-gen-dialogue": {
       "version": "https://github.com/AkiKurisu/Next-Gen-Dialogue.git",
       "depth": 0,
@@ -15,7 +7,7 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "f5c40844aaef98fe626423879e86d2c226b6b54d"
+      "hash": "8ac99561a4e3344de47741538bf090768db2964e"
     },
     "com.unity.addressables": {
       "version": "1.19.19",
