@@ -1,0 +1,9 @@
+[submodule "Packages/Next-Gen-Dialogue"]
+	path = Packages/Next-Gen-Dialogue
+	url = https://github.com/AkiKurisu/Next-Gen-Dialogue.git
+[submodule "Packages/Chris"]
+	path = Packages/Chris
+	url = https://github.com/AkiKurisu/Chris.git
+[submodule "Packages/Ceres"]
+	path = Packages/Ceres
+	url = https://github.com/AkiKurisu/Ceres.git
