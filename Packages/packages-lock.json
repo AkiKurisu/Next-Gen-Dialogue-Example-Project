@@ -8,9 +8,9 @@
       "hash": "73a63b7f672b88f7e9992f6917eb458a8cbb6fa9"
     },
     "com.kurisu.ceres": {
-      "version": "file:E:/Unity/Framework/Packages/Ceres",
+      "version": "file:Ceres",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.kurisu.chris": "1.6.0",
         "com.cysharp.unitask": "2.5.3",
@@ -32,9 +32,9 @@
       }
     },
     "com.kurisu.next-gen-dialogue": {
-      "version": "file:E:/Unity/Framework/Packages/Next-Gen-Dialogue",
+      "version": "file:Next-Gen-Dialogue",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.kurisu.chris": "1.6.0",
         "com.kurisu.ceres": "0.6.3",
