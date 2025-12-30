@@ -37,7 +37,7 @@
       "source": "embedded",
       "dependencies": {
         "com.kurisu.chris": "1.6.0",
-        "com.kurisu.ceres": "0.6.3",
+        "com.kurisu.ceres": "0.6.5",
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       }
     },

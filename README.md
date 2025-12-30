@@ -5,4 +5,4 @@ Sample project for Next-Gen Dialogue.
 
 ## Version
 
-- Unity 2022.3.62f1 or later
+- Unity 2022.3.62f3 or later
